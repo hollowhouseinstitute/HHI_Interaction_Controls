@@ -1,35 +1,19 @@
 # HHI Interaction Controls
 
-This repository defines **interaction-level governance controls** for systems operating under Hollow House Institute (HHI) governance standards.
+This repository defines **execution-time interaction controls** for systems governed under
+HHI_GOV_01 (Longitudinal Behavioral Governance).
 
-## Purpose
+## Scope
+This repository provides:
+- Human–AI interaction constraints
+- Execution-time governance rules
+- Lock-enforced interaction definitions
 
-HHI_Interaction_Controls provides:
-- Canonical interaction constraints
-- Execution-time control patterns
-- Governance-aligned interaction documentation
+## Governance
+This repository is governed by:
+- HHI_GOV_01
+- Hollow House Institute Standards Library
+- Master License Suite (HHI-MLS)
 
-This repository does **not** implement executable agents.
-It defines **controls and constraints** applied to interaction surfaces.
-
-## Governance Context
-
-This repository operates under:
-- HHI Governance Glossary
-- HHI-GOV-01 (Longitudinal Behavioral Governance)
-- Hollow House Institute Master License Suite (HHI-MLS)
-
-## Key Files
-
-- `INTERACTION.md` — interaction control definitions
-- `LOCK_MANIFEST.md` — governance lock declaration
-- `CANONICAL_CHECKSUMS.txt` — integrity verification
-
-## Authority
-
-Human authority, approval, and accountability are declared in `AUTHORITY.md`.
-
-## Status
-
-Early-stage, governance-first repository.
-All changes are subject to governance lock discipline.
+## Canonical Status
+Declared canonical artifacts are listed in LOCK_MANIFEST.md.

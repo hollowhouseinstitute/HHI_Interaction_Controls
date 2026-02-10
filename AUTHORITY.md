@@ -1,22 +1,13 @@
 # Authority Declaration
 
-This repository is governed under the authority of the **Hollow House Institute**.
+Human Authority:
+- Name: Human Authority
+- Role: Governance Owner
+- Scope: Interaction controls and lock enforcement
 
-## Human Authority
+All changes affecting:
+- Interaction definitions
+- Lock state
+- Canonical checksums
 
-Final authority for this repository rests with:
-
-**Human Authority**  
-Hollow House Institute  
-
-All governance decisions, approvals, and locks require explicit human authorization.
-
-## Builder Role
-
-Commits may be authored by delegated builder accounts (e.g., `hhidatasettechs`), but such authorship does **not** confer authority.
-
-## Enforcement
-
-- Authority may not be inferred from automation
-- Authority may not be delegated to systems
-- Authority is exercised prior to execution, not retroactively
+REQUIRE explicit human approval.
