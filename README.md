@@ -17,3 +17,16 @@ This repository is governed by:
 
 ## Canonical Status
 Declared canonical artifacts are listed in LOCK_MANIFEST.md.
+## Governance & Authority Context
+
+This repository is an execution-layer component of the Hollow House Institute governance stack.
+
+Authoritative references:
+- **Governance Standard:** https://github.com/hollowhouseinstitute/HHI_GOV_01
+- **Canonical Glossary & Definitions:** https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library
+
+Authority is bound via:
+- AUTHORITY.md
+- GOVERNANCE.md
+- LOCK_MANIFEST.md
+- CANONICAL_CHECKSUMS.txt
