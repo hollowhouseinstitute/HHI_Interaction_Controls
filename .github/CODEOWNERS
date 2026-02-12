@@ -4,3 +4,6 @@ AUTHORITY.md            @HHIHumanAuthority
 GOVERNANCE.md           @HHIHumanAuthority
 LOCK_MANIFEST.md        @HHIHumanAuthority
 CANONICAL_CHECKSUMS.txt @HHIHumanAuthority
+
+# Codex governance docs
+GOVERNANCE/CODEX/* @HHIHumanAuthority
