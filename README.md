@@ -1,5 +1,16 @@
 # HHI Interaction Controls
 
+Role: Interaction boundary controls (stop authority, human-in-the-loop constraints)
+Authority Tier: Tier 1 (Governance Standards)
+Depends On: Hollow_House_Standards_Library, HHI_GOV_01
+Does Not Define: Canonical terminology, licensing terms, datasets
+Governance Status: Canonical
+
+Authority Links:
+- Hollow_House_Standards_Library (canonical definitions)
+- HHI_GOV_01 (governance execution)
+- SPEC-003 Repository Governance & Authority Order (HHI-SPEC-003)
+
 This repository defines **execution-time interaction controls** for systems governed under
 HHI_GOV_01 (Longitudinal Behavioral Governance).
 
