@@ -30,3 +30,9 @@ Authority is bound via:
 - GOVERNANCE.md
 - LOCK_MANIFEST.md
 - CANONICAL_CHECKSUMS.txt
+
+## Governance
+
+This repository inherits governance authority from the **HHI Governance Export — Core**.
+
+All execution, datasets, research, and audits are bound to its standards and constraints.
